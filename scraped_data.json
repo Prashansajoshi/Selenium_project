@@ -1,0 +1,42 @@
+[
+    {
+        "Company Name": "Kaizenio",
+        "Category": "UK",
+        "Tags": "Developer Tools, PDF Generation",
+        "Founded": "2023",
+        "Based On": "London",
+        "Total Funding": "No funding announced yet",
+        "Website": "https://www.kaizen.io/products/html-to-pdf/",
+        "Company Status": "Active"
+    },
+    {
+        "Company Name": "LogoYa",
+        "Category": "Poland",
+        "Tags": "B2B SaaS, MarTech, Branding",
+        "Founded": "2023",
+        "Based On": "Warsaw",
+        "Total Funding": "No funding announced yet",
+        "Website": "https://www.logoya.app/",
+        "Company Status": "Active"
+    },
+    {
+        "Company Name": "HeyBob",
+        "Category": "Austria",
+        "Tags": "HeyBob, AI Innovation, Creativity, Productivity, Prompt Builder, AI Models, OpenAI, Gemini,",
+        "Founded": "2023",
+        "Based On": "Vienna",
+        "Total Funding": "Between \u20ac500K-\u20ac 1 million",
+        "Website": "https://heybob.app/",
+        "Company Status": "Active"
+    },
+    {
+        "Company Name": "Maksetingimused.ee",
+        "Category": "Estonia",
+        "Tags": "buy now pay later, price comparison, loan comparison, product comparison",
+        "Founded": "2023",
+        "Based On": "Tallinn",
+        "Total Funding": "Between \u20ac1-\u20ac100K",
+        "Website": "https://www.maksetingimused.ee",
+        "Company Status": "Active"
+    }
+]
